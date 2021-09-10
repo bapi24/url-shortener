@@ -43,6 +43,8 @@ $ psql $TEST_DB
 * Install the requirements using `pip install -r requirements.txt`  
 * Run the flask application using `flask run` or run python script using `python3 app.py`
 * To test it we can use following example
+![image](https://github.com/bapi24/url-shortener/blob/main/img/shorten.png)
+![image](https://github.com/bapi24/url-shortener/blob/main/img/expand.png)
 
 
 
